@@ -1,0 +1,8 @@
+n=input("請輸入名詞:")
+v=input("請輸入動詞：")
+adj=input("請輸入形容詞:")
+print(f"名詞是{n}")
+print(f"動詞是{v}")
+print(f"形容詞是{adj}")
+print(f"故事開頭:從前從前，有一個{adj}{n}在山坡上{v}")
+print(f"用這個開頭思考你的故事吧")
